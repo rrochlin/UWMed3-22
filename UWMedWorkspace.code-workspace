@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\ExampleWorkflow"
+		},
+		{
+			"path": "..\\UWMedDecember"
+		},
+		{
+			"path": "..\\UWMed4-19"
+		},
+		{
+			"path": "..\\UWMed4-20"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
