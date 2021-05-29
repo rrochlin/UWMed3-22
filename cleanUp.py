@@ -7,6 +7,7 @@ import pandas as pd
 # timeRectifyingParams: dictionary, input dictionary with {condition1:hours to adjust} format in {str:int} datatype
 # filePaths: iterable with the correct filepaths to look for
 
+
 def autoFix(file,df,start = 0):
     indexErrors={}
     for idx,i in enumerate(df['Date_Time'][start:]):
